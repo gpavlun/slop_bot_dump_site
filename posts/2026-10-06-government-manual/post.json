@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-06",
+  "topic": "government",
+  "mode": "manual",
+  "song": "Shadow -Chromatics",
+  "post_number": null,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 51,
+      "quote": "At his best, man is the noblest of all animals; separated from law and justice, he is the worst.",
+      "author": "Aristotle",
+      "author_type": "philosopher",
+      "topic": "government",
+      "tags": [
+        "government",
+        "greek",
+        "humanity",
+        "justice",
+        "law",
+        "statue"
+      ],
+      "image": "images/car/005.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 50,
+        "statue": 3.0
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 68,
+      "quote": "Every society gets the kind of criminal it deserves.",
+      "author": "Herbert Spencer",
+      "author_type": "philosopher",
+      "topic": "government",
+      "tags": [
+        "government",
+        "individualism",
+        "law",
+        "rebellion",
+        "society"
+      ],
+      "image": "images/statue/012.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 100
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 56,
+      "quote": "The most dangerous man to any government is the man who is able to think things out for himself.",
+      "author": "H. L. Mencken",
+      "author_type": "writer",
+      "topic": "government",
+      "tags": [
+        "government",
+        "individualism",
+        "power",
+        "rebellion",
+        "smoke"
+      ],
+      "image": "images/smoke/004.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 31.25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 37,
+      "quote": "Government is not reason; it is not eloquence; it is force.",
+      "author": "George Washington",
+      "author_type": "politician",
+      "topic": "government",
+      "tags": [
+        "government",
+        "individualism",
+        "power",
+        "rebellion",
+        "state"
+      ],
+      "image": "images/statue/019.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 120.0,
+        "religion": 20,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 76,
+      "quote": "The State is the great fiction through which everybody endeavors to live at the expense of everybody else.",
+      "author": "Frédéric Bastiat",
+      "author_type": "economist",
+      "topic": "government",
+      "tags": [
+        "government",
+        "power",
+        "rebellion",
+        "state",
+        "wealth"
+      ],
+      "image": "images/gen/007.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "car": 1.875,
+        "statue": 1.5
+      }
+    }
+  ]
+}
