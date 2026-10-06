@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-05",
+  "topic": "freedom",
+  "mode": "manual",
+  "song": "Disorder -Joy Division",
+  "post_number": null,
+  "slides": [
+    {
+      "slide": 1,
+      "quote": "\"Freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed.\" — Martin Luther King Jr.",
+      "image": "images/gen/017.jpg",
+      "image_category": "gen"
+    },
+    {
+      "slide": 2,
+      "quote": "\"The truth will set you free.\" — John 8:32",
+      "image": "images/statue/a statue of a man holding a spear.jpg",
+      "image_category": "statue"
+    },
+    {
+      "slide": 3,
+      "quote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\" — John Stuart Mill",
+      "image": "images/smoke/009.jpg",
+      "image_category": "smoke"
+    },
+    {
+      "slide": 4,
+      "quote": "\"Man is born free, and everywhere he is in chains.\" — Jean-Jacques Rousseau",
+      "image": "images/statue/1103522714979826377.jpg",
+      "image_category": "statue"
+    },
+    {
+      "slide": 5,
+      "quote": "\"Those who cannot change their minds cannot change anything.\" — George Bernard Shaw",
+      "image": "images/smoke/008.jpg",
+      "image_category": "smoke"
+    }
+  ]
+}
