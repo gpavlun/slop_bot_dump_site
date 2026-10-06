@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-06",
+  "topic": "government",
+  "mode": "scheduled",
+  "song": "Monolith -Twin Tribes",
+  "post_number": 1,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 64,
+      "quote": "Anarchy is the mother of order.",
+      "author": "Pierre-Joseph Proudhon",
+      "author_type": "philosopher",
+      "topic": "government",
+      "tags": [
+        "anarchy",
+        "government",
+        "individualism",
+        "rebellion",
+        "smoke"
+      ],
+      "image": "images/gen/005.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gen": 50,
+        "car": 50
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 70,
+      "quote": "That government is the strongest of which every man feels himself a part.",
+      "author": "Thomas Jefferson",
+      "author_type": "politician",
+      "topic": "government",
+      "tags": [
+        "government",
+        "politics",
+        "society",
+        "statue"
+      ],
+      "image": "images/statue/1103522714979826368.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 100
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 73,
+      "quote": "The history of all hitherto existing society is the history of class struggles.",
+      "author": "Karl Marx",
+      "author_type": "philosopher",
+      "topic": "government",
+      "tags": [
+        "class",
+        "government",
+        "power",
+        "rebellion",
+        "society"
+      ],
+      "image": "images/outside/009.jpg",
+      "image_category": "outside",
+      "image_weights": {
+        "outside": 25,
+        "car": 31.25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 66,
+      "quote": "The function of government is to make it easy for people to do good and difficult for them to do evil.",
+      "author": "William E. Gladstone",
+      "author_type": "politician",
+      "topic": "government",
+      "tags": [
+        "government",
+        "law",
+        "power",
+        "society"
+      ],
+      "image": "images/statue/1103522714979826458.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 120.0,
+        "religion": 20,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 53,
+      "quote": "Necessity is the plea for every infringement of human freedom.",
+      "author": "William Pitt the Elder",
+      "author_type": "politician",
+      "topic": "government",
+      "tags": [
+        "government",
+        "individualism",
+        "liberty",
+        "power",
+        "rebellion"
+      ],
+      "image": "images/gen/010.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "car": 1.25,
+        "statue": 1.5
+      }
+    }
+  ]
+}
