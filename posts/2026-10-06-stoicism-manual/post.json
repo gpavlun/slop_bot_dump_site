@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-06",
+  "topic": "stoicism",
+  "mode": "manual",
+  "song": "Sweet -Cigarettes After Sex",
+  "post_number": null,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 320,
+      "quote": "The things you think about determine the quality of your mind.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "mind",
+        "philosophy",
+        "roman",
+        "self_mastery",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/car/009.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 50,
+        "statue": 9.0
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 304,
+      "quote": "Fire tests gold, suffering tests brave men.",
+      "author": "Seneca",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "adversity",
+        "courage",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic",
+        "suffering"
+      ],
+      "image": "images/statue/005.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 900.0
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 318,
+      "quote": "Do every act of your life as though it were the last act of your life.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "discipline",
+        "mortality",
+        "philosophy",
+        "present",
+        "roman",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/car/002.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 37.5,
+        "gym": 25,
+        "statue": 11.25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 328,
+      "quote": "Choose not to be harmed—and you won't feel harmed. Don't feel harmed—and you haven't been.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "control",
+        "judgment",
+        "philosophy",
+        "roman",
+        "self_mastery",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/religion/017.jpg",
+      "image_category": "religion",
+      "image_weights": {
+        "statue": 720.0,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 308,
+      "quote": "A man who suffers before it is necessary, suffers more than is necessary.",
+      "author": "Seneca",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "control",
+        "fear",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic",
+        "suffering"
+      ],
+      "image": "images/gen/013.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 9.0
+      }
+    }
+  ]
+}
