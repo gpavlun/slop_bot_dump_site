@@ -2,23 +2,23 @@
   "date": "2026-10-07",
   "topic": "humanity",
   "mode": "scheduled",
-  "song": "Cherry -Chromatics",
-  "post_number": 2,
+  "song": "Dammit (After Dark) -Dead On A Sunday",
+  "post_number": 4,
   "slides": [
     {
       "slide": 1,
-      "quote_id": 130,
-      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-      "author": "Nelson Mandela",
-      "author_type": "politician",
+      "quote_id": 118,
+      "quote": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+      "author": "C. G. Jung",
+      "author_type": "psychologist",
       "topic": "humanity",
       "tags": [
-        "greatness",
         "humanity",
-        "rebellion",
-        "strength"
+        "psychology",
+        "self",
+        "society"
       ],
-      "image": "images/gen/007.jpg",
+      "image": "images/gen/008.jpg",
       "image_category": "gen",
       "image_weights": {
         "gen": 50,
@@ -27,87 +27,87 @@
     },
     {
       "slide": 2,
-      "quote_id": 91,
-      "quote": "Man is the measure of all things.",
-      "author": "Protagoras",
-      "author_type": "philosopher",
+      "quote_id": 116,
+      "quote": "Who looks outside, dreams; who looks inside, awakes.",
+      "author": "C. G. Jung",
+      "author_type": "psychologist",
       "topic": "humanity",
       "tags": [
-        "greek",
         "humanity",
-        "individualism",
         "philosophy",
-        "statue"
+        "psychology",
+        "self"
       ],
-      "image": "images/statue/015.jpg",
+      "image": "images/statue/014.jpg",
       "image_category": "statue",
       "image_weights": {
-        "statue": 450.0
+        "statue": 150.0
       }
     },
     {
       "slide": 3,
-      "quote_id": 138,
-      "quote": "He who knows others is wise; he who knows himself is enlightened.",
-      "author": "Lao Tzu",
+      "quote_id": 141,
+      "quote": "You have power over your mind—not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
       "author_type": "philosopher",
       "topic": "humanity",
       "tags": [
         "humanity",
-        "philosophy",
+        "roman",
         "self",
-        "wisdom"
+        "statue",
+        "stoicism",
+        "strength"
       ],
-      "image": "images/smoke/008.jpg",
-      "image_category": "smoke",
+      "image": "images/outside/006.jpg",
+      "image_category": "outside",
       "image_weights": {
         "outside": 25,
         "car": 25,
         "smoke": 25,
         "gym": 25,
-        "statue": 1.5
+        "statue": 3.0
       }
     },
     {
       "slide": 4,
-      "quote_id": 103,
-      "quote": "What does not kill me makes me stronger.",
-      "author": "Friedrich Nietzsche",
-      "author_type": "philosopher",
+      "quote_id": 121,
+      "quote": "Violence is the last refuge of the incompetent.",
+      "author": "Isaac Asimov",
+      "author_type": "scientist",
       "topic": "humanity",
       "tags": [
-        "gym",
         "humanity",
-        "philosophy",
-        "self",
+        "intelligence",
+        "society",
         "strength"
       ],
-      "image": "images/statue/017.jpg",
+      "image": "images/statue/007.jpg",
       "image_category": "statue",
       "image_weights": {
-        "statue": 120.0,
+        "statue": 80,
         "religion": 20
       }
     },
     {
       "slide": 5,
-      "quote_id": 132,
-      "quote": "A man who dares to waste one hour of time has not discovered the value of life.",
-      "author": "Charles Darwin",
-      "author_type": "scientist",
+      "quote_id": 129,
+      "quote": "We are such stuff as dreams are made on.",
+      "author": "William Shakespeare",
+      "author_type": "writer",
       "topic": "humanity",
       "tags": [
-        "achievement",
         "humanity",
-        "purpose",
-        "strength"
+        "philosophy",
+        "self"
       ],
-      "image": "images/gym/003.jpg",
+      "image": "images/gym/001.jpg",
       "image_category": "gym",
       "image_weights": {
         "gym": 33.33,
         "gen": 33.33,
-        "smoke": 33.34
+        "smoke": 33.34,
+        "statue": 1.5
       }
     }
   ]
