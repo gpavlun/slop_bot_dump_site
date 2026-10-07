@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-07",
+  "topic": "humanity",
+  "mode": "scheduled",
+  "song": "Cherry -Chromatics",
+  "post_number": 2,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 130,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "author_type": "politician",
+      "topic": "humanity",
+      "tags": [
+        "greatness",
+        "humanity",
+        "rebellion",
+        "strength"
+      ],
+      "image": "images/gen/007.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gen": 50,
+        "car": 50
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 91,
+      "quote": "Man is the measure of all things.",
+      "author": "Protagoras",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "greek",
+        "humanity",
+        "individualism",
+        "philosophy",
+        "statue"
+      ],
+      "image": "images/statue/015.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 450.0
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 138,
+      "quote": "He who knows others is wise; he who knows himself is enlightened.",
+      "author": "Lao Tzu",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "philosophy",
+        "self",
+        "wisdom"
+      ],
+      "image": "images/smoke/008.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 103,
+      "quote": "What does not kill me makes me stronger.",
+      "author": "Friedrich Nietzsche",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "gym",
+        "humanity",
+        "philosophy",
+        "self",
+        "strength"
+      ],
+      "image": "images/statue/017.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 120.0,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 132,
+      "quote": "A man who dares to waste one hour of time has not discovered the value of life.",
+      "author": "Charles Darwin",
+      "author_type": "scientist",
+      "topic": "humanity",
+      "tags": [
+        "achievement",
+        "humanity",
+        "purpose",
+        "strength"
+      ],
+      "image": "images/gym/003.jpg",
+      "image_category": "gym",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34
+      }
+    }
+  ]
+}
