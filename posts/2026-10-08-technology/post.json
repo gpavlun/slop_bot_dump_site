@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-08",
+  "topic": "technology",
+  "mode": "scheduled",
+  "song": "A Forest -The Cure",
+  "post_number": 5,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 337,
+      "quote": "The machine does not isolate man from the great problems of nature but plunges him more deeply into them.",
+      "author": "Antoine de Saint-Exupéry",
+      "author_type": "writer",
+      "topic": "technology",
+      "tags": [
+        "gen",
+        "humanity",
+        "machines",
+        "nature",
+        "technology"
+      ],
+      "image": "images/car/010.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 62.5,
+        "outside": 1.25
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 358,
+      "quote": "People think they know what they want, but they don't.",
+      "author": "Steve Jobs",
+      "author_type": "technologist",
+      "topic": "technology",
+      "tags": [
+        "design",
+        "gen",
+        "humanity",
+        "innovation",
+        "technology"
+      ],
+      "image": "images/statue/008.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 100,
+        "car": 1.25,
+        "outside": 1.25
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 343,
+      "quote": "It has become appallingly obvious that our technology has exceeded our humanity.",
+      "author": "Albert Einstein",
+      "author_type": "scientist",
+      "topic": "technology",
+      "tags": [
+        "civilization",
+        "gen",
+        "humanity",
+        "science",
+        "technology"
+      ],
+      "image": "images/gym/009.jpg",
+      "image_category": "gym",
+      "image_weights": {
+        "outside": 31.25,
+        "car": 31.25,
+        "smoke": 25,
+        "gym": 25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 346,
+      "quote": "The great myth of our times is that technology is communication.",
+      "author": "Libby Larsen",
+      "author_type": "composer",
+      "topic": "technology",
+      "tags": [
+        "communication",
+        "gen",
+        "media",
+        "society",
+        "technology"
+      ],
+      "image": "images/statue/023.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 80,
+        "religion": 20,
+        "car": 1.25,
+        "outside": 1.25
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 342,
+      "quote": "The human spirit must prevail over technology.",
+      "author": "Albert Einstein",
+      "author_type": "scientist",
+      "topic": "technology",
+      "tags": [
+        "gen",
+        "humanity",
+        "science",
+        "spirit",
+        "technology"
+      ],
+      "image": "images/gym/010.jpg",
+      "image_category": "gym",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "car": 1.25,
+        "outside": 1.25
+      }
+    }
+  ]
+}
