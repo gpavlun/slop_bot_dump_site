@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-12",
+  "topic": "power",
+  "mode": "scheduled",
+  "song": "Anvil -Lorn",
+  "post_number": 6,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 247,
+      "quote": "Justice without force is powerless; force without justice is tyrannical.",
+      "author": "Blaise Pascal",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "french",
+        "justice",
+        "philosophy",
+        "power",
+        "tyranny"
+      ],
+      "image": "images/car/012.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 62.5,
+        "statue": 2.25
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 238,
+      "quote": "The strong do what they can and the weak suffer what they must.",
+      "author": "Thucydides",
+      "author_type": "historian",
+      "topic": "power",
+      "tags": [
+        "dominance",
+        "greek",
+        "political",
+        "power",
+        "statue",
+        "war"
+      ],
+      "image": "images/statue/013.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 450.0,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 250,
+      "quote": "Covenants, without the sword, are but words.",
+      "author": "Thomas Hobbes",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "english",
+        "force",
+        "government",
+        "philosophy",
+        "power",
+        "war"
+      ],
+      "image": "images/smoke/007.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 31.25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 2.25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 254,
+      "quote": "The urge to save humanity is almost always a false front for the urge to rule it.",
+      "author": "H. L. Mencken",
+      "author_type": "writer",
+      "topic": "power",
+      "tags": [
+        "american",
+        "control",
+        "government",
+        "political",
+        "power",
+        "rebellious"
+      ],
+      "image": "images/statue/003.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 120.0,
+        "religion": 20,
+        "car": 1.5625,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 227,
+      "quote": "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+      "author": "Lao Tzu",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "chinese",
+        "individualist",
+        "philosophy",
+        "power",
+        "self_mastery"
+      ],
+      "image": "images/statue/006.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 3.375,
+        "car": 1.25
+      }
+    }
+  ]
+}
