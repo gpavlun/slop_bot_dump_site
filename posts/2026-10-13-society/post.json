@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-13",
+  "topic": "society",
+  "mode": "scheduled",
+  "song": "Fire for You -Cannons",
+  "post_number": 7,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 280,
+      "quote": "Every society honors its live conformists and its dead troublemakers.",
+      "author": "Mignon McLaughlin",
+      "author_type": "author",
+      "topic": "society",
+      "tags": [
+        "american",
+        "conformity",
+        "individualist",
+        "rebellious",
+        "society"
+      ],
+      "image": "images/car/001.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 62.5,
+        "statue": 1.5,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 264,
+      "quote": "The individual has always had to struggle to keep from being overwhelmed by the tribe.",
+      "author": "Friedrich Nietzsche",
+      "author_type": "philosopher",
+      "topic": "society",
+      "tags": [
+        "conformity",
+        "german",
+        "individualist",
+        "philosophy",
+        "rebellious",
+        "society"
+      ],
+      "image": "images/statue/002.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 225.0,
+        "smoke": 1.5,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 286,
+      "quote": "The civilization of one epoch becomes the joke of the next.",
+      "author": "Oscar Wilde",
+      "author_type": "writer",
+      "topic": "society",
+      "tags": [
+        "civilization",
+        "culture",
+        "irish",
+        "satire",
+        "society"
+      ],
+      "image": "images/car/005.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 263,
+      "quote": "The history of all hitherto existing society is the history of class struggles.",
+      "author": "Karl Marx",
+      "author_type": "philosopher",
+      "topic": "society",
+      "tags": [
+        "class",
+        "german",
+        "philosophy",
+        "political",
+        "society"
+      ],
+      "image": "images/religion/010.jpg",
+      "image_category": "religion",
+      "image_weights": {
+        "statue": 120.0,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 284,
+      "quote": "Those who cannot change their minds cannot change anything.",
+      "author": "George Bernard Shaw",
+      "author_type": "author",
+      "topic": "society",
+      "tags": [
+        "change",
+        "conformity",
+        "individualist",
+        "irish",
+        "society"
+      ],
+      "image": "images/gen/015.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 1.5
+      }
+    }
+  ]
+}
