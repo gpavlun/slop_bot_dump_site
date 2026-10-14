@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-13",
+  "topic": "power",
+  "mode": "manual",
+  "song": "Disorder -Joy Division",
+  "post_number": null,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 249,
+      "quote": "During the time men live without a common power to keep them all in awe, they are in that condition which is called war.",
+      "author": "Thomas Hobbes",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "english",
+        "government",
+        "human_nature",
+        "philosophy",
+        "power",
+        "war"
+      ],
+      "image": "images/car/003.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 62.5,
+        "statue": 2.25
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 244,
+      "quote": "Power is never given; it is taken.",
+      "author": "Anonymous",
+      "author_type": "unknown",
+      "topic": "power",
+      "tags": [
+        "dominance",
+        "individualist",
+        "power",
+        "rebellious"
+      ],
+      "image": "images/statue/011.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 225.0,
+        "car": 1.5625,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 242,
+      "quote": "Politics have no relation to morals.",
+      "author": "Niccolò Machiavelli",
+      "author_type": "political_theorist",
+      "topic": "power",
+      "tags": [
+        "government",
+        "italian",
+        "morality",
+        "political",
+        "power"
+      ],
+      "image": "images/car/007.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "outside": 25,
+        "car": 31.25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 232,
+      "quote": "Whoever controls the past controls the future. Whoever controls the present controls the past.",
+      "author": "George Orwell",
+      "author_type": "author",
+      "topic": "power",
+      "tags": [
+        "british",
+        "control",
+        "government",
+        "history",
+        "political",
+        "power"
+      ],
+      "image": "images/statue/007.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 120.0,
+        "religion": 20,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 237,
+      "quote": "The will to power is the fundamental principle of all life.",
+      "author": "Friedrich Nietzsche",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "german",
+        "individualist",
+        "philosophy",
+        "power",
+        "will"
+      ],
+      "image": "images/gym/010.jpg",
+      "image_category": "gym",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 3.375,
+        "car": 1.25
+      }
+    }
+  ]
+}
