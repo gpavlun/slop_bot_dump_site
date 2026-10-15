@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-14",
+  "topic": "stoicism",
+  "mode": "scheduled",
+  "song": "Sextape -Deftones",
+  "post_number": 8,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 328,
+      "quote": "Choose not to be harmed—and you won't feel harmed. Don't feel harmed—and you haven't been.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "control",
+        "judgment",
+        "philosophy",
+        "roman",
+        "self_mastery",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/gen/009.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gen": 50,
+        "car": 50,
+        "statue": 9.0
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 303,
+      "quote": "Difficulties strengthen the mind, as labor does the body.",
+      "author": "Seneca",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "adversity",
+        "discipline",
+        "gym",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic",
+        "strength"
+      ],
+      "image": "images/statue/022.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 900.0
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 322,
+      "quote": "Reject your sense of injury and the injury itself disappears.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "control",
+        "judgment",
+        "philosophy",
+        "roman",
+        "self_mastery",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/smoke/002.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 9.0
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 310,
+      "quote": "Life is very short and anxious for those who forget the past, neglect the present, and fear the future.",
+      "author": "Seneca",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "fear",
+        "mortality",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic",
+        "time"
+      ],
+      "image": "images/statue/018.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 900.0,
+        "religion": 20,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 316,
+      "quote": "The best revenge is to be unlike him who performed the injury.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "discipline",
+        "philosophy",
+        "revenge",
+        "roman",
+        "self_mastery",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/statue/010.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 9.0
+      }
+    }
+  ]
+}
