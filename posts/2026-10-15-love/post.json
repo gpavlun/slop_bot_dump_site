@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-15",
+  "topic": "love",
+  "mode": "scheduled",
+  "song": "Shadow -Chromatics",
+  "post_number": 9,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 171,
+      "quote": "If I know what love is, it is because of you.",
+      "author": "Hermann Hesse",
+      "author_type": "writer",
+      "topic": "love",
+      "tags": [
+        "devotion",
+        "literature",
+        "outside",
+        "romantic"
+      ],
+      "image": "images/gen/004.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gen": 62.5,
+        "car": 50
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 163,
+      "quote": "Love is not love which alters when it alteration finds.",
+      "author": "William Shakespeare",
+      "author_type": "writer",
+      "topic": "love",
+      "tags": [
+        "devotion",
+        "outside",
+        "romantic",
+        "shakespeare"
+      ],
+      "image": "images/statue/020.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 100,
+        "gen": 1.25
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 175,
+      "quote": "Love is the strange bewilderment which overtakes one person on account of another person.",
+      "author": "James Thurber",
+      "author_type": "writer",
+      "topic": "love",
+      "tags": [
+        "literature",
+        "outside",
+        "romantic"
+      ],
+      "image": "images/outside/001.jpg",
+      "image_category": "outside",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "gen": 1.25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 147,
+      "quote": "Love looks not with the eyes, but with the mind.",
+      "author": "William Shakespeare",
+      "author_type": "writer",
+      "topic": "love",
+      "tags": [
+        "literature",
+        "outside",
+        "romantic",
+        "shakespeare"
+      ],
+      "image": "images/statue/009.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 80,
+        "religion": 20,
+        "gen": 1.25
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 152,
+      "quote": "Who, being loved, is poor?",
+      "author": "Oscar Wilde",
+      "author_type": "writer",
+      "topic": "love",
+      "tags": [
+        "literature",
+        "outside",
+        "romantic"
+      ],
+      "image": "images/gen/001.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 41.662499999999994,
+        "smoke": 33.34
+      }
+    }
+  ]
+}
