@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-16",
+  "topic": "mortality",
+  "mode": "scheduled",
+  "song": "The Perfect Girl -Mareux",
+  "post_number": 10,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 210,
+      "quote": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "author_type": "poet",
+      "topic": "mortality",
+      "tags": [
+        "impermanence",
+        "life",
+        "outside",
+        "poetry"
+      ],
+      "image": "images/car/009.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 50
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 187,
+      "quote": "You could leave life right now. Let that determine what you do and say and think.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "mortality",
+      "tags": [
+        "death",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/statue/016.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 1125.0,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 198,
+      "quote": "He who teaches men to die would teach them to live.",
+      "author": "Michel de Montaigne",
+      "author_type": "philosopher",
+      "topic": "mortality",
+      "tags": [
+        "death",
+        "life",
+        "outside",
+        "philosophy"
+      ],
+      "image": "images/outside/007.jpg",
+      "image_category": "outside",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 37.5,
+        "gym": 25,
+        "statue": 1.875
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 203,
+      "quote": "Death, be not proud, though some have called thee mighty and dreadful.",
+      "author": "John Donne",
+      "author_type": "poet",
+      "topic": "mortality",
+      "tags": [
+        "christian",
+        "death",
+        "poetry",
+        "religion",
+        "religious"
+      ],
+      "image": "images/religion/015.jpg",
+      "image_category": "religion",
+      "image_weights": {
+        "statue": 100.0,
+        "religion": 500.0,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 208,
+      "quote": "Because I could not stop for Death, He kindly stopped for me.",
+      "author": "Emily Dickinson",
+      "author_type": "poet",
+      "topic": "mortality",
+      "tags": [
+        "death",
+        "outside",
+        "poetry"
+      ],
+      "image": "images/gen/020.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 50.010000000000005,
+        "statue": 1.25
+      }
+    }
+  ]
+}
