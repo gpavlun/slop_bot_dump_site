@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-21",
+  "topic": "humanity",
+  "mode": "scheduled",
+  "song": "Sweater Weather -The Neighbourhood",
+  "post_number": 11,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 119,
+      "quote": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+      "author": "Stephen Hawking",
+      "author_type": "scientist",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "intelligence",
+        "knowledge",
+        "science"
+      ],
+      "image": "images/gen/007.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gen": 50,
+        "car": 50
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 104,
+      "quote": "The greatest thing in the world is to know how to belong to oneself.",
+      "author": "Michel de Montaigne",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "individualism",
+        "philosophy",
+        "self"
+      ],
+      "image": "images/statue/005.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 150.0
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 124,
+      "quote": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "purpose",
+        "self",
+        "society"
+      ],
+      "image": "images/outside/004.jpg",
+      "image_category": "outside",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 123,
+      "quote": "All that is necessary for the triumph of evil is that good men do nothing.",
+      "author": "Edmund Burke",
+      "author_type": "politician",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "rebellion",
+        "society",
+        "strength"
+      ],
+      "image": "images/statue/004.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 80,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 142,
+      "quote": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "roman",
+        "self",
+        "statue",
+        "stoicism",
+        "strength"
+      ],
+      "image": "images/gym/001.jpg",
+      "image_category": "gym",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 3.0
+      }
+    }
+  ]
+}
