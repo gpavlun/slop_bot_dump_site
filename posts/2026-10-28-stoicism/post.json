@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-28",
+  "topic": "stoicism",
+  "mode": "scheduled",
+  "song": "Dammit (After Dark) -Dead On A Sunday",
+  "post_number": 12,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 327,
+      "quote": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "judgment",
+        "mind",
+        "perception",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/car/005.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 50,
+        "statue": 9.0
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 310,
+      "quote": "Life is very short and anxious for those who forget the past, neglect the present, and fear the future.",
+      "author": "Seneca",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "fear",
+        "mortality",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic",
+        "time"
+      ],
+      "image": "images/statue/001.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 1125.0,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 323,
+      "quote": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "acceptance",
+        "fate",
+        "love",
+        "philosophy",
+        "roman",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/car/013.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 9.0
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 314,
+      "quote": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "happiness",
+        "mind",
+        "philosophy",
+        "roman",
+        "self_mastery",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/statue/017.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 720.0,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 319,
+      "quote": "The soul becomes dyed with the color of its thoughts.",
+      "author": "Marcus Aurelius",
+      "author_type": "philosopher",
+      "topic": "stoicism",
+      "tags": [
+        "character",
+        "mind",
+        "philosophy",
+        "roman",
+        "self_mastery",
+        "statue",
+        "stoic"
+      ],
+      "image": "images/gen/018.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 9.0
+      }
+    }
+  ]
+}
