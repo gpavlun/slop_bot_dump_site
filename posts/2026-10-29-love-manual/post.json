@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-29",
+  "topic": "love",
+  "mode": "manual",
+  "song": "Fire for You -Cannons",
+  "post_number": null,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 165,
+      "quote": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+      "author": "Friedrich Nietzsche",
+      "author_type": "philosopher",
+      "topic": "love",
+      "tags": [
+        "german",
+        "marriage",
+        "philosophy",
+        "romantic",
+        "statue"
+      ],
+      "image": "images/car/012.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 62.5,
+        "car": 50,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 154,
+      "quote": "The heart was made to be broken.",
+      "author": "Oscar Wilde",
+      "author_type": "writer",
+      "topic": "love",
+      "tags": [
+        "heartbreak",
+        "literature",
+        "outside",
+        "romantic"
+      ],
+      "image": "images/statue/008.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 100,
+        "gen": 1.25
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 171,
+      "quote": "If I know what love is, it is because of you.",
+      "author": "Hermann Hesse",
+      "author_type": "writer",
+      "topic": "love",
+      "tags": [
+        "devotion",
+        "literature",
+        "outside",
+        "romantic"
+      ],
+      "image": "images/smoke/009.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "gen": 1.25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 176,
+      "quote": "Love is the flower you've got to let grow.",
+      "author": "John Lennon",
+      "author_type": "musician",
+      "topic": "love",
+      "tags": [
+        "music",
+        "outside",
+        "romantic"
+      ],
+      "image": "images/statue/019.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 80,
+        "religion": 20,
+        "gen": 1.25
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 183,
+      "quote": "The giving of love is an education in itself.",
+      "author": "Eleanor Roosevelt",
+      "author_type": "politician",
+      "topic": "love",
+      "tags": [
+        "devotion",
+        "love",
+        "outside"
+      ],
+      "image": "images/gym/010.jpg",
+      "image_category": "gym",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34
+      }
+    }
+  ]
+}
