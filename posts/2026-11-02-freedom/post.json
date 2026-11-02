@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-02",
+  "topic": "freedom",
+  "mode": "scheduled",
+  "song": "Lost Highway -NightCrawl",
+  "post_number": 13,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 11,
+      "quote": "Freedom is what you do with what's been done to you.",
+      "author": "Jean-Paul Sartre",
+      "author_type": "philosopher",
+      "topic": "freedom",
+      "tags": [
+        "existentialist",
+        "freedom",
+        "french",
+        "individualist",
+        "philosophy"
+      ],
+      "image": "images/gen/009.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gen": 50,
+        "car": 50,
+        "statue": 3.375
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 27,
+      "quote": "Freedom consists not in doing what we like, but in having the right to do what we ought.",
+      "author": "John Dalberg-Acton",
+      "author_type": "historian",
+      "topic": "freedom",
+      "tags": [
+        "english",
+        "freedom",
+        "history",
+        "liberty",
+        "responsibility"
+      ],
+      "image": "images/statue/018.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 100
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 22,
+      "quote": "Freedom is the oxygen of the soul.",
+      "author": "Moshe Dayan",
+      "author_type": "politician",
+      "topic": "freedom",
+      "tags": [
+        "freedom",
+        "individualist",
+        "israeli",
+        "spiritual"
+      ],
+      "image": "images/smoke/007.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 12,
+      "quote": "Man is condemned to be free.",
+      "author": "Jean-Paul Sartre",
+      "author_type": "philosopher",
+      "topic": "freedom",
+      "tags": [
+        "existentialist",
+        "freedom",
+        "french",
+        "individualist",
+        "philosophy",
+        "statue"
+      ],
+      "image": "images/statue/021.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 270.0,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 10,
+      "quote": "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.",
+      "author": "George Orwell",
+      "author_type": "author",
+      "topic": "freedom",
+      "tags": [
+        "english",
+        "freedom",
+        "individualist",
+        "intellectual",
+        "literature"
+      ],
+      "image": "images/smoke/003.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 1.5
+      }
+    }
+  ]
+}
