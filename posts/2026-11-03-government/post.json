@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-03",
+  "topic": "government",
+  "mode": "scheduled",
+  "song": "Cold Cave -Confetti",
+  "post_number": 14,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 48,
+      "quote": "Whenever a man has cast a longing eye on offices, a rottenness begins in his conduct.",
+      "author": "Thomas Jefferson",
+      "author_type": "politician",
+      "topic": "government",
+      "tags": [
+        "corruption",
+        "government",
+        "politics",
+        "power",
+        "rebellion"
+      ],
+      "image": "images/car/006.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 62.5,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 82,
+      "quote": "The liberty of the individual is no gift of civilization.",
+      "author": "Sigmund Freud",
+      "author_type": "psychologist",
+      "topic": "government",
+      "tags": [
+        "government",
+        "individualism",
+        "liberty",
+        "rebellion",
+        "smoke"
+      ],
+      "image": "images/statue/014.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 100
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 83,
+      "quote": "The state exists for the sake of life, and not life for the sake of the state.",
+      "author": "Thomas Jefferson",
+      "author_type": "politician",
+      "topic": "government",
+      "tags": [
+        "government",
+        "individualism",
+        "liberty",
+        "state",
+        "statue"
+      ],
+      "image": "images/car/010.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 72,
+      "quote": "Government of the people, by the people, for the people, shall not perish from the earth.",
+      "author": "Abraham Lincoln",
+      "author_type": "politician",
+      "topic": "government",
+      "tags": [
+        "democracy",
+        "government",
+        "society",
+        "statue"
+      ],
+      "image": "images/religion/008.jpg",
+      "image_category": "religion",
+      "image_weights": {
+        "statue": 80,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 56,
+      "quote": "The most dangerous man to any government is the man who is able to think things out for himself.",
+      "author": "H. L. Mencken",
+      "author_type": "writer",
+      "topic": "government",
+      "tags": [
+        "government",
+        "individualism",
+        "power",
+        "rebellion",
+        "smoke"
+      ],
+      "image": "images/gen/005.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "car": 1.25,
+        "statue": 1.5
+      }
+    }
+  ]
+}
