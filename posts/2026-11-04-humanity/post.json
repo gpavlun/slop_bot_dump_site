@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-04",
+  "topic": "humanity",
+  "mode": "scheduled",
+  "song": "Monolith -Twin Tribes",
+  "post_number": 15,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 108,
+      "quote": "The mass of men lead lives of quiet desperation.",
+      "author": "Henry David Thoreau",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "individualism",
+        "smoke",
+        "society"
+      ],
+      "image": "images/car/008.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 50
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 105,
+      "quote": "Each man is a distinct universe.",
+      "author": "Ralph Waldo Emerson",
+      "author_type": "writer",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "individualism",
+        "philosophy",
+        "self"
+      ],
+      "image": "images/statue/010.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 150.0
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 111,
+      "quote": "In the midst of winter, I found there was, within me, an invincible summer.",
+      "author": "Albert Camus",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "outside",
+        "philosophy",
+        "self",
+        "strength"
+      ],
+      "image": "images/outside/008.jpg",
+      "image_category": "outside",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 104,
+      "quote": "The greatest thing in the world is to know how to belong to oneself.",
+      "author": "Michel de Montaigne",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "humanity",
+        "individualism",
+        "philosophy",
+        "self"
+      ],
+      "image": "images/statue/013.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 120.0,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 109,
+      "quote": "Go confidently in the direction of your dreams! Live the life you've imagined.",
+      "author": "Henry David Thoreau",
+      "author_type": "philosopher",
+      "topic": "humanity",
+      "tags": [
+        "greatness",
+        "humanity",
+        "individualism",
+        "purpose"
+      ],
+      "image": "images/gen/021.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34
+      }
+    }
+  ]
+}
