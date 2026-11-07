@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-06",
+  "topic": "mortality",
+  "mode": "scheduled",
+  "song": "A Forest -The Cure",
+  "post_number": 16,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 202,
+      "quote": "Out, out, brief candle! Life's but a walking shadow.",
+      "author": "William Shakespeare",
+      "author_type": "writer",
+      "topic": "mortality",
+      "tags": [
+        "death",
+        "impermanence",
+        "literature",
+        "outside",
+        "shakespeare"
+      ],
+      "image": "images/car/002.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 50,
+        "smoke": 1.5,
+        "statue": 1.25
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 199,
+      "quote": "Philosophizing is learning how to die.",
+      "author": "Michel de Montaigne",
+      "author_type": "philosopher",
+      "topic": "mortality",
+      "tags": [
+        "death",
+        "outside",
+        "philosophy"
+      ],
+      "image": "images/statue/007.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 187.5,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 192,
+      "quote": "Everything changes and nothing remains still.",
+      "author": "Heraclitus",
+      "author_type": "philosopher",
+      "topic": "mortality",
+      "tags": [
+        "greek",
+        "impermanence",
+        "philosophy",
+        "statue"
+      ],
+      "image": "images/smoke/004.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 4.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 194,
+      "quote": "Death may be the greatest of all human blessings.",
+      "author": "Socrates",
+      "author_type": "philosopher",
+      "topic": "mortality",
+      "tags": [
+        "death",
+        "greek",
+        "philosophy",
+        "statue"
+      ],
+      "image": "images/statue/005.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 450.0,
+        "religion": 20,
+        "smoke": 1.5
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 207,
+      "quote": "Gather ye rosebuds while ye may.",
+      "author": "Robert Herrick",
+      "author_type": "poet",
+      "topic": "mortality",
+      "tags": [
+        "death",
+        "impermanence",
+        "outside",
+        "poetry"
+      ],
+      "image": "images/smoke/001.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 50.010000000000005,
+        "statue": 1.25
+      }
+    }
+  ]
+}
