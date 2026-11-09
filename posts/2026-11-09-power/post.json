@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-09",
+  "topic": "power",
+  "mode": "scheduled",
+  "song": "Black Cathedral -This Cold Night",
+  "post_number": 17,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 251,
+      "quote": "Wherever law ends, tyranny begins.",
+      "author": "John Locke",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "english",
+        "freedom",
+        "government",
+        "philosophy",
+        "power",
+        "tyranny"
+      ],
+      "image": "images/gen/007.jpg",
+      "image_category": "gen",
+      "image_weights": {
+        "gen": 50,
+        "car": 62.5,
+        "statue": 2.25
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 258,
+      "quote": "The first and greatest victory is to conquer yourself.",
+      "author": "Plato",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "greek",
+        "philosophy",
+        "power",
+        "self_mastery",
+        "statue",
+        "victory"
+      ],
+      "image": "images/statue/023.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 675.0,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 242,
+      "quote": "Politics have no relation to morals.",
+      "author": "Niccolò Machiavelli",
+      "author_type": "political_theorist",
+      "topic": "power",
+      "tags": [
+        "government",
+        "italian",
+        "morality",
+        "political",
+        "power"
+      ],
+      "image": "images/smoke/002.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "outside": 25,
+        "car": 31.25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 227,
+      "quote": "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+      "author": "Lao Tzu",
+      "author_type": "philosopher",
+      "topic": "power",
+      "tags": [
+        "chinese",
+        "individualist",
+        "philosophy",
+        "power",
+        "self_mastery"
+      ],
+      "image": "images/statue/022.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 270.0,
+        "religion": 20,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 253,
+      "quote": "The most dangerous man to any government is the man who is able to think things out for himself.",
+      "author": "H. L. Mencken",
+      "author_type": "writer",
+      "topic": "power",
+      "tags": [
+        "american",
+        "government",
+        "individualist",
+        "political",
+        "power",
+        "rebellious"
+      ],
+      "image": "images/smoke/009.jpg",
+      "image_category": "smoke",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 50.010000000000005,
+        "statue": 2.25,
+        "car": 1.5625
+      }
+    }
+  ]
+}
