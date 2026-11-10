@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-10",
+  "topic": "society",
+  "mode": "scheduled",
+  "song": "Disorder -Joy Division",
+  "post_number": 18,
+  "slides": [
+    {
+      "slide": 1,
+      "quote_id": 274,
+      "quote": "People demand freedom of speech as a compensation for the freedom of thought which they seldom use.",
+      "author": "Søren Kierkegaard",
+      "author_type": "philosopher",
+      "topic": "society",
+      "tags": [
+        "conformity",
+        "danish",
+        "individualist",
+        "philosophy",
+        "society",
+        "thought"
+      ],
+      "image": "images/car/001.jpg",
+      "image_category": "car",
+      "image_weights": {
+        "gen": 50,
+        "car": 50,
+        "statue": 2.25
+      }
+    },
+    {
+      "slide": 2,
+      "quote_id": 264,
+      "quote": "The individual has always had to struggle to keep from being overwhelmed by the tribe.",
+      "author": "Friedrich Nietzsche",
+      "author_type": "philosopher",
+      "topic": "society",
+      "tags": [
+        "conformity",
+        "german",
+        "individualist",
+        "philosophy",
+        "rebellious",
+        "society"
+      ],
+      "image": "images/statue/024.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 225.0,
+        "smoke": 1.5,
+        "car": 1.25
+      }
+    },
+    {
+      "slide": 3,
+      "quote_id": 267,
+      "quote": "Society is a masked ball, where everyone hides his own character, and reveals it by hiding.",
+      "author": "Ralph Waldo Emerson",
+      "author_type": "writer",
+      "topic": "society",
+      "tags": [
+        "american",
+        "appearance",
+        "identity",
+        "philosophy",
+        "society"
+      ],
+      "image": "images/outside/007.jpg",
+      "image_category": "outside",
+      "image_weights": {
+        "outside": 25,
+        "car": 25,
+        "smoke": 25,
+        "gym": 25,
+        "statue": 1.5
+      }
+    },
+    {
+      "slide": 4,
+      "quote_id": 278,
+      "quote": "Culture is the widening of the mind and of the spirit.",
+      "author": "Jawaharlal Nehru",
+      "author_type": "politician",
+      "topic": "society",
+      "tags": [
+        "culture",
+        "humanity",
+        "indian",
+        "political",
+        "society"
+      ],
+      "image": "images/statue/019.jpg",
+      "image_category": "statue",
+      "image_weights": {
+        "statue": 80,
+        "religion": 20
+      }
+    },
+    {
+      "slide": 5,
+      "quote_id": 281,
+      "quote": "Custom is the great guide of human life.",
+      "author": "David Hume",
+      "author_type": "philosopher",
+      "topic": "society",
+      "tags": [
+        "culture",
+        "philosophy",
+        "scottish",
+        "society",
+        "tradition"
+      ],
+      "image": "images/gym/001.jpg",
+      "image_category": "gym",
+      "image_weights": {
+        "gym": 33.33,
+        "gen": 33.33,
+        "smoke": 33.34,
+        "statue": 1.5
+      }
+    }
+  ]
+}
